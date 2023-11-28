@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Head image](/ada-template-website/Pictures/moderntime_head.jpg)
+![Head image](/ada-template-website/Pictures/Modern_Times_header.png)
 
 # Test
 
