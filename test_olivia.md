@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/ada-template-website/Pictures/Modern_Times_header.png" alt="Cover Image" class="cover-image">
+<img src="../Pictures/Modern_Times_header.png" alt="Cover Image" class="cover-image">
 
 
 # Test
@@ -10,6 +10,8 @@ layout: default
 ## This is a test
 
 Wouah.
-![Head image](/ada-template-website/Pictures/Modern_Times_header.png)
+![Head image](../Pictures/Modern_Times_header.png)
 
-{% include_relative interactive_bar_plot.html %}
+{% include_relative figures/interactive_bar_plot.html %}
+
+{% include_relative figures/genres_evolution.html %}
